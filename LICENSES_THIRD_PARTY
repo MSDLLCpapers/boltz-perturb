@@ -1,0 +1,69 @@
+Boltz-Perturb is built upon Boltz-2 (https://github.com/jwohlwend/boltz),
+which is distributed under the MIT License. You must agree to the terms of
+the Boltz-2 license in addition to the Boltz-Perturb source code license
+in order to use this software.
+
+Boltz-Perturb also uses third-party software which may be distributed under
+different licenses. This includes tools used for analyzing and evaluating
+the outputs. We have listed these third-party packages below to the best of our knowledge.
+
+You must agree to the terms of these licenses, in addition to the
+Boltz-Perturb and Boltz-2 licenses, in order to use Boltz-Perturb.
+
+--------------------------------------------------
+Third party software listed by License type
+[Format: Name - URL]
+--------------------------------------------------
+
+MIT License (https://www.opensource.org/licenses/MIT)
+  * Boltz-2 - https://github.com/jwohlwend/boltz
+  * PoseBusters - https://github.com/maabuu/posebusters
+  * einops - https://github.com/arogozhnikov/einops
+  * einx - https://github.com/fferflo/einx
+  * hydra-core - https://github.com/facebookresearch/hydra
+  * modelcif - https://github.com/ihmwg/python-modelcif
+  * python-ihm - https://github.com/ihmwg/python-ihm
+  * p_tqdm - https://github.com/swansonk14/p_tqdm
+  * PyYAML - https://github.com/yaml/pyyaml
+  * redis-py - https://github.com/redis/redis-py
+  * tqdm - https://github.com/tqdm/tqdm
+  * wandb - https://github.com/wandb/wandb
+  * chembl_structure_pipeline - https://github.com/chembl/ChEMBL_Structure_Pipeline
+  
+BSD-3-Clause License (https://www.opensource.org/licenses/BSD-3-Clause)
+  * click - https://github.com/pallets/click
+  * fairscale - https://github.com/facebookresearch/fairscale
+  * NumPy - https://github.com/numpy/numpy
+  * pandas - https://github.com/pandas-dev/pandas
+  * RDKit - https://github.com/rdkit/rdkit
+  * SciPy - https://github.com/scipy/scipy
+  * scikit-learn - https://github.com/scikit-learn/scikit-learn
+  * omegaconf - https://github.com/omry/omegaconf
+  * PyTorch - https://github.com/pytorch/pytorch
+
+BSD-2-Clause License (https://opensource.org/license/bsd-2-clause)
+  * numba - https://github.com/numba/numba
+
+Apache-2.0 License (https://www.opensource.org/licenses/Apache-2.0)
+  * mashumaro - https://github.com/Fatal1ty/mashumaro
+  * pdbeccdutils - https://github.com/PDBeurope/ccdutils
+  * pytorch-lightning - https://github.com/Lightning-AI/pytorch-lightning
+  * requests - https://github.com/psf/requests
+  * torchmetrics - https://github.com/Lightning-AI/torchmetrics
+
+MPL-2.0 License (https://www.opensource.org/licenses/MPL-2.0)
+  * gemmi - https://github.com/project-gemmi/gemmi
+
+LGPL-3.0 License (https://www.opensource.org/licenses/LGPL-3.0)
+  * OpenStructure - https://openstructure.org
+
+Python Software Foundation License (https://github.com/matplotlib/matplotlib/blob/main/LICENSE/LICENSE)
+  * matplotlib - https://github.com/matplotlib/matplotlib
+
+
+Biopython License Agreement (https://github.com/biopython/biopython/blob/master/LICENSE.rst)
+  * Biopython - https://github.com/biopython/biopython
+
+Proprietary / Commercial License
+  * PyMOL (Schrödinger, Inc.) - https://www.schrodinger.com/products/pymol
+    Boltz-Perturb uses the PyMOL API. A valid commercial license is required to use this functionality.
