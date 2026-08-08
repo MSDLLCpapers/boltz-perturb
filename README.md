@@ -192,6 +192,7 @@ Example analysis scripts are provided in `scripts/utils/analyze_scripts/`:
 
 If you use Boltz-Perturb in your research, please cite:
 
+preprint:
 ```bibtex
 @article{boltzperturb2026,
   title={Boltz-Perturb: Improving Diversity and Accuracy in Protein-Ligand Co-Folding through Training-Free Conditioning Perturbation},
