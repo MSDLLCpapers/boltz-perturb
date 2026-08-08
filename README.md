@@ -194,11 +194,11 @@ If you use Boltz-Perturb in your research, please cite:
 
 ```bibtex
 @article{boltzperturb2026,
-  title={Boltz-Perturb},
+  title={Boltz-Perturb: Improving Diversity and Accuracy in Protein-Ligand Co-Folding through Training-Free Conditioning Perturbation},
   author={Hyeyun Jung, BoRam Lee, Alan C. Cheng},
-  journal={TODO},
   year={2026},
-  url={TODO}
+  doi={10.64898/2026.08.05.742877},
+  journal = {bioRxiv}
 }
 ```
 
